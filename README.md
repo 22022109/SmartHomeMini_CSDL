@@ -1,0 +1,1 @@
+# SmartHomeMini_CSDL
